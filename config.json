@@ -1,0 +1,9 @@
+{
+  "from": "sender@example.com",
+  "to": ["receiver@example.com"],
+  "cc": [],
+  "smtp_server": "smtp.example.com",
+  "smtp_port": 25,
+  "username": "user",
+  "password": "pass"
+}
